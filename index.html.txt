@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags quan trọng -->
+    <title>Thư Ngỏ Hợp Tác Phát Triển | [Tên Của Bạn/Doanh Nghiệp]</title>
+    <meta name="description" content="Thư ngỏ mời gọi hợp tác, liên kết kinh doanh và phát triển cơ hội mới cùng [Tên Của Bạn]. Hãy cùng nhau tạo ra giá trị bền vững.">
+    <meta name="keywords" content="thư ngỏ hợp tác, liên kết kinh doanh, tìm kiếm đối tác, kết nối cơ hội, [Từ khóa lĩnh vực của bạn]">
+    <link rel="canonical" href="https://tenmiencuaban.com" />
+    
+    <!-- Định dạng giao diện nhanh, nhẹ -->
+    <style>
+        :root { --primary: #0056b3; --text: #333; --bg: #f8f9fa; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; color: var(--text); background: var(--bg); margin: 0; padding: 20px; }
+        .container { max-width: 750px; background: #fff; margin: 40px auto; padding: 40px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        h1 { color: var(--primary); font-size: 2rem; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #222; font-size: 1.4rem; margin-top: 30px; }
+        p { margin-bottom: 15px; text-align: justify; }
+        .cta-box { background: #e9ecef; padding: 25px; border-radius: 6px; border-left: 5px solid var(--primary); margin-top: 30px; }
+        .btn { display: inline-block; background: var(--primary); color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 15px; transition: 0.3s; }
+        .btn:hover { background: #004085; }
+        footer { text-align: center; margin-top: 40px; font-size: 0.9rem; color: #666; }
+    </style>
+</head>
+<body>
+
+    <main class="container">
+        <!-- Khu vực tiêu đề chuẩn SEO H1 -->
+        <h1>THƯ NGỎ MỜI HỢP TÁC & LIÊN KẾT PHÁT TRIỂN</h1>
+        
+        <p><strong>Kính gửi: Quý Đối tác và Các Bạn Đồng nghiệp,</strong></p>
+        
+        <p>Tôi tên là <strong>[Tên Của Bạn]</strong>, hiện đang hoạt động trong lĩnh vực <strong>[Lĩnh vực của bạn, ví dụ: Công nghệ/Kinh doanh/Design]</strong>. Lời đầu tiên, tôi xin gửi lời chào trân trọng nhất và lời chúc sức khỏe, thành công đến Quý vị.</p>
+
+        <h2>Về Bản Thân & Giá Trị Cốt Lõi</h2>
+        <p>Với hành trình hơn [X năm] kinh nghiệm, tôi luôn tập trung vào việc tạo ra các giải pháp [nêu thế mạnh ngắn gọn, ví dụ: tối ưu hóa quy trình, thiết kế sáng tạo...]. Tôi tin rằng sự phát triển bền vững chỉ có được khi chúng ta biết kết nối và cộng hưởng sức mạnh cùng nhau.</p>
+
+        <h2>Cơ Hội Hợp Tác Tôi Tìm Kiếm</h2>
+        <p>Để mở rộng quy mô và mang lại nhiều giá trị hơn cho cộng đồng, tôi mong muốn tìm kiếm cơ hội liên kết với các cá nhân, tổ chức có chung tầm nhìn thuộc các mảng:</p>
+        <ul>
+            <li>Hợp tác chia sẻ tài nguyên và chuyên môn.</li>
+            <li>Liên kết triển khai các dự án tiềm năng ngắn và dài hạn.</li>
+            <li>Đồng hành đại diện thương hiệu hoặc phân phối sản phẩm.</li>
+        </ul>
+
+        <!-- Khu vực kêu gọi hành động (CTA) -->
+        <div class="cta-box">
+            <h2>Hãy Kết Nối Cùng Tôi Ngay Hôm Nay!</h2>
+            <p>Nếu bạn thấy có điểm chạm chung hoặc có ý tưởng muốn cùng thảo luận, đừng ngần ngại liên hệ trực tiếp với tôi. Tôi luôn sẵn sàng lắng nghe mọi lời đề nghị nghiêm túc.</p>
+            
+            <p>📧 Email: <strong>your-email@gmail.com</strong><br>
+            📞 Điện thoại / Zalo: <strong>090X.XXX.XXX</strong></p>
+            
+            <a href="mailto:your-email@gmail.com" class="btn">Gửi Thư Đề Xuất Hợp Tác</a>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2026 Bản quyền thuộc về [Tên Của Bạn]. Mọi quyền được bảo lưu.</p>
+    </footer>
+
+</body>
+</html>
